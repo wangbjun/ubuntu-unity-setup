@@ -14,3 +14,12 @@
 3. 第三步，设置引导设备和引导分区（假如有多个设备和分区的话）。
 
 不过实际安装过程没这么复杂，现在大部分操作系统都是傻瓜式安装，你只需要填一下基本信息，做一些选择即可，相当简单！
+
+本文主要分为以下几个部分：
+1. [制作U盘启动盘](https://github.com/wangbjun/ubuntu_desktop_setup/blob/master/1.start_up_disk.md)
+2. [使用U盘引导设备](https://github.com/wangbjun/ubuntu_desktop_setup/blob/master/2.boot_from_usb.md)
+3. [安装系统](https://github.com/wangbjun/ubuntu_desktop_setup/blob/master/3.install.md)
+4. [系统设置](https://github.com/wangbjun/ubuntu_desktop_setup/blob/master/5.application.md)
+5. [日常应用安装](https://github.com/wangbjun/ubuntu_desktop_setup/blob/master/5.application.md)
+6. [编程工具安装](https://github.com/wangbjun/ubuntu_desktop_setup/blob/master/5.code_tool.md)
+7. [编程环境安装](https://github.com/wangbjun/ubuntu_desktop_setup/blob/master/6.env.md)
