@@ -15,3 +15,5 @@
 6. [编程工具安装](https://github.com/wangbjun/ubuntu_desktop_setup/blob/master/6.code_tool.md)
 7. [编程环境安装](https://github.com/wangbjun/ubuntu_desktop_setup/blob/master/7.env.md)
 8. [一些琐碎的命令](https://github.com/wangbjun/ubuntu_desktop_setup/blob/master/8.command.md)
+
+加一点东西
