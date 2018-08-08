@@ -17,3 +17,5 @@
 8. [一些琐碎的命令](https://github.com/wangbjun/ubuntu_desktop_setup/blob/master/8.command.md)
 
 加一点东西
+
+再加一点东西
