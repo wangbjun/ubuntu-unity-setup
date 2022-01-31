@@ -12,30 +12,30 @@
 >以下文章的内容仅针对Ubuntu的unity桌面，准确的说是16.04版本，因为之后的版本都是Gnome桌面，基本上不适用了，Only For Ubuntu16.04。
 
 ## 第一部分，系统初步设置
-https://wangbjun.site/2021/os/ubuntu-unity-setup.html
+https://wangbjun.site/2021/linux/ubuntu-unity-setup.html
 
 这部分的主要内容是讲安装完系统之后一些初步的设置和优化项
 
 ## 第二部分，常用软件介绍
-https://wangbjun.site/2021/os/ubuntu-unity-application.html
+https://wangbjun.site/2021/linux/ubuntu-unity-application.html
 
 这部分的主要内容是介绍了一下Ubuntu下常用的软件和一些设置
 
 ## 第三部分，参考文章
 这部分我列出了我这些年来使用Ubuntu遇到的一些问题和解决方案，很多是针对Ubuntu16.04,仅供参考：
-1. [Linux系统自定义Shell命令](https://wangbjun.site/2015/os/linux-custom-shell.html)
-2. [Linux常用命令和工具](https://wangbjun.site/2016/os/linux-command-usage.html)
-3. [一条Linux命令](https://wangbjun.site/2018/os/one-linux-command.html)
-4. [科学上网之socks代理转http(s)](https://wangbjun.site/2018/os/socks-to-http.html)
-5. [解决Deepin-Wine-QQ或微信图标Bug](https://wangbjun.site/2018/os/deepin-wine-qq-bug.html)
-6. [Linux下挂载NTFS硬盘和Samba共享](https://wangbjun.site/2018/os/linux-ntfs-samba.html)
-7. [Ubuntu 4K显示器缩放设置](https://wangbjun.site/2019/os/ubuntu-4k-scale.html)
-8. [解决sudo command not found 报错](https://wangbjun.site/2019/os/sudo-command-not-found.html)
-9. [Ubuntu 下nvidia显卡驱动安装](https://wangbjun.site/2019/os/ubuntu-nvidia-dirver.html)
-10. [Ubuntu Nautilus隐藏文件(夹)](https://wangbjun.site/2020/os/ubuntu-hidden-file.html)
-11. [详解Linux环境下各种代理设置](https://wangbjun.site/2020/os/linux-proxy.html)
-12. [Ubuntu休眠后屏幕缩放恢复](https://wangbjun.site/2021/os/fix-screen-scale.html)
+1. [Linux系统自定义Shell命令](https://wangbjun.site/2015/linux/linux-custom-shell.html)
+2. [Linux常用命令和工具](https://wangbjun.site/2016/linux/linux-command-usage.html)
+3. [一条Linux命令](https://wangbjun.site/2018/linux/one-linux-command.html)
+4. [科学上网之socks代理转http(s)](https://wangbjun.site/2018/linux/socks-to-http.html)
+5. [解决Deepin-Wine-QQ或微信图标Bug](https://wangbjun.site/2018/linux/deepin-wine-qq-bug.html)
+6. [Linux下挂载NTFS硬盘和Samba共享](https://wangbjun.site/2018/linux/linux-ntfs-samba.html)
+7. [Ubuntu 4K显示器缩放设置](https://wangbjun.site/2019/linux/ubuntu-4k-scale.html)
+8. [解决sudo command not found 报错](https://wangbjun.site/2019/linux/sudo-command-not-found.html)
+9. [Ubuntu 下nvidia显卡驱动安装](https://wangbjun.site/2019/linux/ubuntu-nvidia-dirver.html)
+10. [Ubuntu Nautilus隐藏文件(夹)](https://wangbjun.site/2020/linux/ubuntu-hidden-file.html)
+11. [详解Linux环境下各种代理设置](https://wangbjun.site/2020/linux/linux-proxy.html)
+12. [Ubuntu休眠后屏幕缩放恢复](https://wangbjun.site/2021/linux/fix-screen-scale.html)
 
-更多文章可以参考本人[博客](https://wangbjun.site/categories/OS/) ，或者加本人微信交流经验！
+更多文章可以参考本人[博客](https://wangbjun.site/categories/Linux/) ，或者加本人微信交流经验！
 
 <img src="./qrcode.jpg">
